@@ -1,7 +1,12 @@
-本项目仅用于个人学习、技术研究与交流，不用于任何商业用途或非法用途。
+Disclaimers
 
-项目中的代码、配置及相关内容仅作为学习参考，请勿直接用于生产环境。使用本项目所产生的任何风险、损失或法律责任，均由使用者自行承担。
+This project is only for learning, technical research, and communication purposes.
 
-如涉及第三方代码、接口、图片、商标或其他资源，其版权归原作者或相关权利人所有。如有侵权，请联系删除。
+-Not for commercial use.
+-Not used for any illegal, irregular or destructive purposes.
+-The project code is for reference only and should not be directly used in production environments.
+-Any losses or risks caused by the use of this project shall be borne by the user themselves.
+-The rights to third-party code, interfaces, images, brands, and other resources involved in the project belong to the original author or relevant rights holder.
+-Users should comply with the laws and regulations of their local area and the relevant provisions of third-party platforms on their own.
 
-请遵守当地法律法规以及相关平台、服务商的使用规则。
+If the content in this project infringes upon your legitimate rights and interests, please contact us for resolution.
